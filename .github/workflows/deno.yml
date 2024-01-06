@@ -19,8 +19,8 @@ jobs:
       with:
         node-version: '16'
         registry-url: 'https://registry.npmjs.org/'
+
+    - name: Install dependencies and Build with Yarn
       run: |
         yarn install --frozen-lockfile
-
-    - name: Build with Yarn
-      run: yarn build
+        yarn build
