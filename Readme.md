@@ -1,3 +1,6 @@
+> [!CAUTION]
+> 雀魂已经更换了游戏引擎，本项目使用的注入方式不再有效，建议使用官方客户端。如有游戏修改需求可以参考 [MajsoulMax](https://github.com/Avenshy/MajsoulMax)
+
 ![Banner](https://github.com/iamapig120/simpad-ebay-imgs/blob/master/majsoul_plus_banner.png?raw=true)
 
 # 雀魂 Plus
